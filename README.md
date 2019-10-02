@@ -165,7 +165,7 @@ Include contains single header implementation of data structures and some algori
 ### Math Problems
 | Problem | Solution |
 | :------------ | :----------: |
-|  Print all the permutations of a string. Example: Permutations of ABC are ABC, ACB, BCA, BAC, CAB, CBA | [string_permutations.cpp](math_problems/string_permutations.cpp) |
+|  Print all the permutations of a string. Example: Permutations of ABC are : ABC, ACB, BCA, BAC, CAB, CBA | [string_permutations.cpp](math_problems/string_permutations.cpp) |
 | Euclidean algorithm to find greatest common divisor of two numbers. (Iterative and recursive)|[gcd.cpp](math_problems/gcd.cpp)|
 | Implement pow(x,y) using divide and conquer approach. Try implementing it in O(logn)| [pow.cpp](math_problems/pow.cpp)|
 | Calculate factorial of large number, say 100 (it will have 158 digits) |[factorial_of_large_num.cpp](math_problems/factorial_of_large_num.cpp)|
